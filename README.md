@@ -99,7 +99,31 @@ make -C boilerplate ci
 This smoke check does not test kernel-module loading, supervisor runtime behavior, or container execution.
 
 ---
+## Screenshots
 
+### 1. Multi-container supervision
+![multi-container](screenshots/01-multi-container.png)
+
+### 2. Metadata tracking
+![ps-metadata](screenshots/02-ps-metadata.png)
+
+### 3. Bounded-buffer logging
+![logging](screenshots/03-logging.png)
+
+### 4. CLI and IPC
+![cli-ipc](screenshots/04-cli-ipc.png)
+
+### 5. Soft-limit warning
+![soft-limit](screenshots/05-soft-limit.png)
+
+### 6. Hard-limit enforcement
+![hard-limit](screenshots/06-hard-limit.png)
+
+### 7. Scheduling experiment
+![scheduling](screenshots/07-scheduling.png)
+
+### 8. Clean teardown
+![teardown](screenshots/08-teardown.png)
 ## What to Do Next
 
 Read [`project-guide.md`](project-guide.md) end to end. It contains:
