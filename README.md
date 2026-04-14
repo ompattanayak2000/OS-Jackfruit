@@ -1,4 +1,11 @@
-# Multi-Container Runtime
+# OS-Jackfruit — Multi-Container Runtime
+
+## 1. Team Information
+
+| Name | SRN |
+|------|-----|
+| Om Satyajyoti Pattanayak | PES1UG24CS309 |
+---
 
 A lightweight Linux container runtime in C with a long-running supervisor and a kernel-space memory monitor.
 
