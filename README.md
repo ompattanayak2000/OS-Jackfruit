@@ -112,7 +112,7 @@ This smoke check does not test kernel-module loading, supervisor runtime behavio
 ![multi-container](screenshots/multicontainer.png)
 
 ### 2. Metadata tracking
-![ps-metadata](screenshots/ps-metadata.png)
+![ps-metadata](screenshots/psmetadata.png)
 
 ### 3. Bounded-buffer logging
 ![logging](screenshots/logging.png)
